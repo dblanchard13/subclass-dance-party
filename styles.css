@@ -47,9 +47,9 @@ body, a:link, a:visited, a:active{
     100%  {-webkit-transform: rotate(360deg);}
 }
 
-.dancer.rick{
-    border: 0;
-    height: auto;
-    width: auto;
+#rick{
+    border-width: 0px;
+    height: 50px;
+    width: 50px;
     background-image : url("pic/rick_roll_d.png");
 }
